@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """
 
 My simple solution to Imran Ghory's FizzBuzz challenge.
